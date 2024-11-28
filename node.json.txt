@@ -1,0 +1,66 @@
+{
+          id: 1,
+          name: "Disque Dur Interne HIKSEMI WAVE 512Go SSD SATA III",
+          description:
+            "Capacité de stockage: 512 Go - Type de Disque Dur: SSD - Interface: SATA III- Vitesse en lecture: 530 Mo/s - Vitesse en écriture: 450 Mo/s- Support de stockage: NAND 3D",
+          price: 129.0,
+          image: require("./assets/images/disquedur1.png"),
+          quantite: 9,
+          solde: true,
+          discount: 100,
+        },
+        {
+          id: 2,
+          name: "Disque Dur Externe VERBATIM 1 To SSD USB 3.2 - Noir",
+          description:
+            "Capacité: 1 To - Interface: USB 3.2 Gen.1  avec connexion USB-C - Type Disque Dur: SSD - Vitesses de transfert de données allant jusqu à 5 Gbits/s - Résister aux coups et aux chocs",
+          price: 275.0,
+          image: require("./assets/images/disquedur2.png"),
+          quantite: 8,
+          solde: true,
+          discount: 8,
+        },
+        {
+          id: 3,
+          name: "Disque Dur Interne HIKSEMI WAVE Pro 1024Go SSD PCIe",
+          description:
+            "Capacité de stockage: 1024 Go - Type de Disque Dur: SSD - Interface: PCIe - Vitesse en écriture: 2450 Mo/s - Support de stockage: NAND 3D ",
+          price: 229.0,
+          image: require("./assets/images/disquedur3.png"),
+          quantite: 5,
+          solde: false,
+          discount: 10,
+        },
+        {
+          id: 4,
+          name: "Disque Dur Externe TWINMOS ELITE DRIVE 1To SSD TYPE C - Gold",
+          description:
+            "Capacité de Stockage: 1To - Type de disque dur: SSD - Interface: USB Type C - Vitesse en lecture: 580 Mo/s- Résistant aux chocs",
+          price: 249.0,
+          image: require("./assets/images/disquedur4.png"),
+          quantite: 0,
+          solde: false,
+          discount: 70,
+        },
+        {
+          id: 5,
+          name: "Disque Dur Externe TWINMOS ELITE DRIVE 1To SSD TYPE C - Gold",
+          description:
+            "Capacité de Stockage: 960 Go - Type de disque dur: SSD - Interface: 1 x USB 3.0 - USB 9 broches type A - Vitesse en lecture: 420  Mo/s - Vitesse en écriture: 420 Mo/s - Pour PC, PC ultraportable, Smart TV et appareils mobiles équipés d’Android ",
+          price: 309.0,
+          image: require("./assets/images/disquedur5.png"),
+          quantite: 10,
+          solde: false,
+          discount: 60,
+        },
+        {
+          id: 6,
+          name: "Disque Dur Interne ADATA LEGEND 710 512Go SSD PCIe M.2",
+          description:
+            "Capacité de stockage: 512Go - Type de Disque Dur: SSD - Facteur de forme: M.2 2280 - Interface: PCIe Gen3 x4 - Vitesse en lecture: 2400 Mo/s - Vitesse en écriture: 1800 Mo/s - Résistance au choc: 1500G/0,5 ms-Compatible avec les ordinateurs de bureau et les ordinateurs portable - Le dissipateur thermique garde les choses 15 % plus fraîches - Excellente option de mise à niveau pour les créateurs ",
+          price: 139.0,
+          image: require("./assets/images/disquedur6.png"),
+          quantite: 0,
+          solde: false,
+          discount: 70,
+        },
